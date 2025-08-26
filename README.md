@@ -1,6 +1,6 @@
 **📝 Handwritten Digit Recognition using ANN (TensorFlow/Keras)**
 
-**Introduction**
+**📌 Introduction**
 
 Handwritten digit recognition is a classic problem in the field of machine learning and computer vision.
 In this project, I built an Artificial Neural Network (ANN) using TensorFlow/Keras to classify digits (0–9) from the MNIST dataset.
@@ -26,7 +26,7 @@ Testing samples: 10,000
 
 Image size: 28×28 pixels (grayscale)
 
-**Model Architecture**
+**🏗 Model Architecture**
 
 Input layer: 784 neurons (flattened 28×28 image)
 
@@ -36,7 +36,7 @@ Hidden layer 2: Dense (64 neurons, ReLU)
 
 Output layer: Dense (10 neurons, Softmax)
 
-**Results**
+**📈 Results**
 
 Final Test Accuracy: ~98%
 
